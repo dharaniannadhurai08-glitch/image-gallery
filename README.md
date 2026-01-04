@@ -27,4 +27,4 @@ It includes hover effects, lightbox view, image navigation, and category filteri
 - Works on mobile, tablet, and desktop
 
 ## Author
-Developed by Dharu
+Developed by Dharani
